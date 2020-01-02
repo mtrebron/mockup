@@ -39,7 +39,7 @@
     "dropzone": "https://github.com/enyo/dropzone.git#v4.3.0",
     "jqtree": "https://github.com/mbraak/jqTree.git#1.4.10",
     "jquery": "https://github.com/jquery/jquery-dist.git#1.12.4",
-    "jquery-form": "https://github.com/jquery-form/form.git#4.2.2",
+    "jquery-form": "https://github.com/jquery-form/form.git#v4.2.2",
     "jquery.browser": "https://github.com/gabceb/jquery-browser-plugin.git#v0.1.0",
     "jquery.cookie": "https://github.com/carhartl/jquery-cookie.git#v1.4.1",
     "jquery.recurrenceinput.js": "https://github.com/collective/jquery.recurrenceinput.js.git#master",
