@@ -2770,7 +2770,7 @@ jqtree@>=0.16:
   dependencies:
     jquery ">=1.9"
 
-"jquery-form@https://github.com/jquery-form/form.git#4.2.2":
+"jquery-form@https://github.com/jquery-form/form.git#v4.2.2":
   version "4.2.2"
   resolved "https://github.com/jquery-form/form.git#4beae57bc92402e2d03ca66b5ae2942d0c94c695"
   dependencies:
